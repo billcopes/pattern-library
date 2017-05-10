@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="18px" viewBox="0 0 10 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>unfold-more</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Patterns---Progress-Navigation" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0">
+        <g id="PN1-stepper" transform="translate(-247.000000, -1883.000000)" fill="#000000">
+            <g id="step-2---content*" transform="translate(38.000000, 1814.000000)">
+                <g id="unfold-more" transform="translate(209.000000, 69.000000)">
+                    <path d="M5,2.8 L8.2,6 L9.6,4.6 L5,0 L0.4,4.6 L1.8,6 L5,2.8 L5,2.8 Z M5,15.2 L1.8,12 L0.4,13.4 L5,18 L9.6,13.4 L8.2,12 L5,15.2 L5,15.2 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
